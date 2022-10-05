@@ -1,2 +1,2 @@
 # Prueba
-Això és una prova
+Això és una prova, això és editat
